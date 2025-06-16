@@ -1,0 +1,3 @@
+The purpose of self-balancing robots is to maintain their balance while moving around without tipping over. They achieve this using sensors, control systems, and algorithms that adjust the robot's movements to keep it stable. 
+Self-balancing robots have various applications in different fields, including education, entertainment, delivery, security, industrial automation, and healthcare.  
+They can perform tasks such as carrying loads, inspecting equipment, assisting patients, and monitoring areas for security purposes. Overall, the purpose of self-balancing robots is to provide a stable and mobile platform that can perform various tasks in different setting. 
